@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-vusit = https://m-rs-chetan.streamlit.app/
+visit = https://m-rs-chetan.streamlit.app/
 
 Overview
 
